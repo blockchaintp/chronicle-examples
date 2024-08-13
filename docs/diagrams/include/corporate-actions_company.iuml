@@ -1,4 +1,4 @@
-abstract Company {
+class Company {
     + name
     + location
 }

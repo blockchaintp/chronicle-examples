@@ -1,4 +1,4 @@
-abstract Announcement {
+class Announcement {
     + ratio
     + recordDate
     + payDate

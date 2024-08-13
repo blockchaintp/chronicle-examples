@@ -1,4 +1,4 @@
-abstract Shareholding {
+class Shareholding {
     + quantity
     + nominalPrice
 }

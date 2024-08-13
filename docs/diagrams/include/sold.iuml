@@ -1,4 +1,4 @@
-abstract Sold {
+class Sold {
     + purchaseValue
     + purchaseValueCurrency
 }

@@ -1,3 +1,3 @@
-abstract Artwork {
+class Artwork {
     + title
 }

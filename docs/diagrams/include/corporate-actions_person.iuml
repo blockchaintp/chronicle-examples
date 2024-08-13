@@ -1,4 +1,4 @@
-abstract Person {
+class Person {
     + name
     + location
 }
