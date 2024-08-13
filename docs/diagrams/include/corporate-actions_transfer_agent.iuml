@@ -1,4 +1,4 @@
-abstract TransferAgent {
+class TransferAgent {
     + name
     + location
 }
